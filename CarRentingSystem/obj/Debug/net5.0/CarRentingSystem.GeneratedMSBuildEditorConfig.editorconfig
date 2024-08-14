@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = CarRentingSystem
-build_property.ProjectDir = C:\Users\HP\Documents\Kurs_SoftUni\AA_C#_ASP_NET_Core_may_2021_my\140_Car_Renting_System\07_Seven_C_R_S_Architecture\ASP.NET-Core-Project-Car-Renting-System-main\CarRentingSystem\
+build_property.ProjectDir = C:\Users\HP\Documents\Kurs_SoftUni\AA_C#_ASP_NET_Core_may_2021_my\140_Car_Renting_System\08_Height_C_R_S_Testing\ASP.NET-Core-Project-Car-Renting-System-main\CarRentingSystem\
