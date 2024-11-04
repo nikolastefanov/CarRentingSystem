@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\09_C_R_S_Cache\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\CarRentingSystem.csproj": {}
+    "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\10_C_R_S_Workshop4\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\CarRentingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\09_C_R_S_Cache\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\CarRentingSystem.csproj": {
+    "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\10_C_R_S_Workshop4\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\CarRentingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\09_C_R_S_Cache\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\CarRentingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\10_C_R_S_Workshop4\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\CarRentingSystem.csproj",
         "projectName": "CarRentingSystem",
-        "projectPath": "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\09_C_R_S_Cache\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\CarRentingSystem.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\10_C_R_S_Workshop4\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\CarRentingSystem.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\09_C_R_S_Cache\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\Kurs_SoftUni\\A_C#_ASP_NET_Core_may_2021_my\\140_Car_Renting_System\\10_C_R_S_Workshop4\\ASP.NET-Core-Project-Car-Renting-System-main\\CarRentingSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
